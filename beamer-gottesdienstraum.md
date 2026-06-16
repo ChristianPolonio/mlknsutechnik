@@ -1,3 +1,9 @@
+---
+layout: default
+title: Anleitung Beamer
+---
+
+
 # Anleitung für den Beamer im Gottesdienstraum der Martin-Luther-Kirche
 Stand Juni 2026
 
