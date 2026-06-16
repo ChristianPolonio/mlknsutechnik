@@ -11,11 +11,15 @@ Stand Juni 2026
 
 Der Beamer ist fest an der Decke des Kirchenraumes installiert. Am Gerät selbst müssen keine Bedienschritte vorgenommen werden. Ein- und Ausschalten sowie die Auswahl des Eingangssignals erfolgt mittels Fernbedienung, die sich in einem schwarzen Koffer („Zubehör Beamer“) in der Schublade des „Lautsprecher-Schranks“ im Technikraum befindet.
 
+![Inhalt des Koffers](beamer-mlk/inhalt-koffer.png)
+
 Der Beamer wird über den roten Knopf eingeschaltet. Ausschalten geschieht ebenfalls über diesen Knopf (**zweimal** drücken).Sollte der Beamer nicht reagieren, bitte darauf achten, mit der Fernbedienung auf den Beamer zu zielen - nicht auf die Projektionsfläche.
 
 ## Drahtlose Verbindung
 
 In dem Koffer befinden sich auch zwei Drahtlos-Adapter zum Anschluss von Notebooks. Für aktuelle Notebooks kann der USB-C-Adapter (links im Koffer) verwendet werden. Für ältere Modelle ohne USB-C-Anschluss steht ein HDMI-Adapter bereit (rechts im Koffer). Bitte bei diesem Adapter darauf achten, dass auch das zweite Kabel (mit USB-A-Stecker) im Notebook eingesteckt wird. Ansonsten funktioniert die Verbindung nicht.
+
+![Dongle](beamer-mlk/dongle.png)
 
 Ist der Drahtlos-Adapter korrekt im Notebook eingesteckt, blinkt dieser für einige Sekunden <span style="color: red">**rot**</span>. Bitte warten, bis der Streifen **weiß** leuchtet. Dann auf den Streifen klicken. Die Farbe wechselt zu <span style="color: green">**grün**</span> und der Bildschirminhalt des Notebooks wird auf den Beamer übertragen. Ein erneutes Klicken auf den Streifen beendet die Übertragung und die Farbe wechselt zurück zu **weiß**.
 
