@@ -12,7 +12,7 @@ title: Anleitung Beamer
   <img src="beamer-mlk/beamer.png" width="100%">
 </div>
 
-Der Beamer ist fest an der Decke des Kirchenraumes installiert. Am Gerät selbst müssen keine Bedienschritte vorgenommen werden. Ein- und Ausschalten sowie die Auswahl des Eingangssignals erfolgt mittels Fernbedienung, die sich in einem schwarzen Koffer („Zubehör Beamer“) in der Schublade des „Lautsprecher-Schranks“ im Technikraum befindet.
+Der Beamer ist fest an der Decke des Kirchenraumes installiert. Am Gerät selbst müssen keine Bedienschritte vorgenommen werden. Ein- und Ausschalten sowie die Auswahl des Eingangssignals erfolgt mittels Fernbedienung, die sich in einem schwarzen Koffer („Zubehör Beamer“) beim „Lautsprecher-Schrank“ im Technikraum befindet.
 
 <div align="left">
   <img src="beamer-mlk/inhalt-koffer.png" width="100%">
